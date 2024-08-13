@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499880465837",
+    "project_id": "chat-app-bea58",
+    "storage_bucket": "chat-app-bea58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499880465837:android:54889f345e897158c8fd24",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8lLvdg7A2pYS9h8nAunGaeiSgjjE93MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
